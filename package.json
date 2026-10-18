@@ -1,0 +1,13 @@
+{
+  "name": "silvicom-360-tms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Transportation management with billing and double-entry accounting",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
